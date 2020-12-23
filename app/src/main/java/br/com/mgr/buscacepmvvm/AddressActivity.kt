@@ -1,11 +1,11 @@
 package br.com.mgr.buscacepmvvm
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
 import android.widget.Toast
 import android.widget.Toast.LENGTH_LONG
 import android.widget.Toast.LENGTH_SHORT
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import br.com.mgr.buscacepmvvm.address.Address
 import br.com.mgr.buscacepmvvm.address.AddressViewModel
